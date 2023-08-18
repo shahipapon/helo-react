@@ -9,6 +9,8 @@ function App() {
   return (
     <>
       hello React 
+      <h2>I have succesfully deployed react to github</h2>
+      <h2>hello umpy dumpy</h2>
     </>
   )
 }
